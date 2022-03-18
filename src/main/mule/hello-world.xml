@@ -18,7 +18,8 @@ output application/json
 ---
 {
 	"Programme": "Its a first hello world Api",
-	"Status": "Success"
+	"Status": "Success",
+	"Update": "yes Updated"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
